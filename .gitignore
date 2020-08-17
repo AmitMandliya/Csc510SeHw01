@@ -51,4 +51,12 @@ build/
 /mvnw
 /mvnw.cmd
 
+# Adding virtual env 
+/env/
+
+
+###Python cache files ###
+/.pytest_cache/
+/test/__pycache__/
+/code/__pycache__/
 
